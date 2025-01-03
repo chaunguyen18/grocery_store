@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\study\\LTUD - CT291\\BTN_291 (chau)\\",
+  "WorkspaceRootPath": "D:\\study\\LTUD_CT291\\BTN_291_chau\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|D:\\study\\LTUD - CT291\\BTN_291 (chau)\\btn_291\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|d:\\study\\ltud_ct291\\btn_291_chau\\btn_291\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\study\\LTUD - CT291\\BTN_291 (chau)\\BTN_291\\Program.cs",
+              "DocumentMoniker": "D:\\study\\LTUD_CT291\\BTN_291_chau\\BTN_291\\Program.cs",
               "RelativeDocumentMoniker": "BTN_291\\Program.cs",
-              "ToolTip": "D:\\study\\LTUD - CT291\\BTN_291 (chau)\\BTN_291\\Program.cs",
+              "ToolTip": "D:\\study\\LTUD_CT291\\BTN_291_chau\\BTN_291\\Program.cs",
               "RelativeToolTip": "BTN_291\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
