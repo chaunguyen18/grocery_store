@@ -1,0 +1,738 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\billreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\billreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\billreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\billreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fbilldetailscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fbilldetailscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|c:\\users\\asus\\source\\repos\\btn_291\\btn_291\\printbill.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\printbill.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\flogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\flogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\finventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\finventory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fbilldetailscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fbilldetailscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproductdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\frevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\frevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\finventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\finventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\finventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\finventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fcustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fcustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fcreatebill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fcreatebill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fcreatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fcreatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fcreatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fcreatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fchangeuserpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fchangeuserpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fbilldetailscustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fbilldetailscustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fsellermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fsellermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproducttypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproducttypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fnhapsoluong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fnhapsoluong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fnhapsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fnhapsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fsellermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fsellermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\frevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\frevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fnhapsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fnhapsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\flogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\flogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fchangeuserpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fchangeuserpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|C:\\Users\\ASUS\\source\\repos\\BTN_291\\btn_291\\fproducttypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8ACF08-57F6-4E2B-995B-E4242B4FB146}|BTN_291\\BTN_291.csproj|solutionrelative:btn_291\\fproducttypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\Program.cs",
+              "RelativeDocumentMoniker": "BTN_291\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\Program.cs",
+              "RelativeToolTip": "BTN_291\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:10:15.865Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "BTN_291\\AccountProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\AccountProfile.cs",
+              "RelativeToolTip": "BTN_291\\AccountProfile.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwGsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:12:35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "fChangeUserPwd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fChangeUserPwd.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fChangeUserPwd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fChangeUserPwd.cs",
+              "RelativeToolTip": "BTN_291\\fChangeUserPwd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:04:11.301Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "fLogOut.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fLogOut.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fLogOut.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fLogOut.cs",
+              "RelativeToolTip": "BTN_291\\fLogOut.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA2wCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:51:47.267Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "fManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fManager.cs",
+              "RelativeToolTip": "BTN_291\\fManager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIAxwHcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:05:18.042Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProductManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductManager.cs",
+              "RelativeToolTip": "BTN_291\\fProductManager.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAcwLsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:29:06.748Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "fProductTypeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductTypeManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProductTypeManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductTypeManager.cs",
+              "RelativeToolTip": "BTN_291\\fProductTypeManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowEcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:33:01.692Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KetNoiSQL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\KetNoiSQL.cs",
+              "RelativeDocumentMoniker": "BTN_291\\KetNoiSQL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\KetNoiSQL.cs",
+              "RelativeToolTip": "BTN_291\\KetNoiSQL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:52:39.16Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserLogin.cs",
+              "RelativeDocumentMoniker": "BTN_291\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserLogin.cs",
+              "RelativeToolTip": "BTN_291\\UserLogin.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:56:32.33Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserRegister.cs",
+              "RelativeDocumentMoniker": "BTN_291\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserRegister.cs",
+              "RelativeToolTip": "BTN_291\\UserRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:47:15.441Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChucNang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\ChucNang.cs",
+              "RelativeDocumentMoniker": "BTN_291\\ChucNang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\ChucNang.cs",
+              "RelativeToolTip": "BTN_291\\ChucNang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:02:13.314Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProduct.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProduct.cs",
+              "RelativeToolTip": "BTN_291\\fProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:39:51.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fBillDetailsCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fBillDetailsCustomer.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fBillDetailsCustomer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fBillDetailsCustomer.cs",
+              "RelativeToolTip": "BTN_291\\fBillDetailsCustomer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:17:29.23Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "fInventory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fInventory.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fInventory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fInventory.cs",
+              "RelativeToolTip": "BTN_291\\fInventory.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAIAywHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:27:09.036Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductDetails.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProductDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductDetails.cs",
+              "RelativeToolTip": "BTN_291\\fProductDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:42:26.71Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "fRevenue.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fRevenue.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fRevenue.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fRevenue.cs",
+              "RelativeToolTip": "BTN_291\\fRevenue.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:25:49.706Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "fSellerManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fSellerManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fSellerManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fSellerManager.cs",
+              "RelativeToolTip": "BTN_291\\fSellerManager.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAASwBUBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:46:47.926Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "fNhapSoLuong.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fNhapSoLuong.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fNhapSoLuong.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fNhapSoLuong.cs",
+              "RelativeToolTip": "BTN_291\\fNhapSoLuong.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:50:42.182Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintBill.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\PrintBill.rdlc",
+              "RelativeDocumentMoniker": "BTN_291\\PrintBill.rdlc",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\PrintBill.rdlc [Design]",
+              "RelativeToolTip": "BTN_291\\PrintBill.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-18T14:27:58.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProduct.Designer.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProduct.Designer.cs",
+              "RelativeToolTip": "BTN_291\\fProduct.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:06:36.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fBillDetailsCustomer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fBillDetailsCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fBillDetailsCustomer.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fBillDetailsCustomer.Designer.cs",
+              "RelativeToolTip": "BTN_291\\fBillDetailsCustomer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:03:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fNhapSoLuong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fNhapSoLuong.Designer.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fNhapSoLuong.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fNhapSoLuong.Designer.cs",
+              "RelativeToolTip": "BTN_291\\fNhapSoLuong.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:56:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fInventory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fInventory.Designer.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fInventory.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fInventory.Designer.cs",
+              "RelativeToolTip": "BTN_291\\fInventory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:36:18.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fCreateBill.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCreateBill.Designer.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fCreateBill.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCreateBill.Designer.cs",
+              "RelativeToolTip": "BTN_291\\fCreateBill.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:00:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "fCreateBill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCreateBill.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fCreateBill.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCreateBill.cs",
+              "RelativeToolTip": "BTN_291\\fCreateBill.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAADwv+0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:55:19.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "fNhapSoLuong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fNhapSoLuong.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fNhapSoLuong.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fNhapSoLuong.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fNhapSoLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:48:14.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillReport.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\BillReport.cs",
+              "RelativeDocumentMoniker": "BTN_291\\BillReport.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\BillReport.cs",
+              "RelativeToolTip": "BTN_291\\BillReport.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:36:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\BillReport.cs",
+              "RelativeDocumentMoniker": "BTN_291\\BillReport.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\BillReport.cs [Design]",
+              "RelativeToolTip": "BTN_291\\BillReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:09:55.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fCustomerManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCustomerManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fCustomerManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCustomerManager.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fCustomerManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:37:14.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fChangeUserPwd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fChangeUserPwd.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fChangeUserPwd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fChangeUserPwd.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fChangeUserPwd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:24:26.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fProductDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductDetails.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProductDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductDetails.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fProductDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:43:19.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProduct.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProduct.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProduct.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:51:19.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fInventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fInventory.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fInventory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fInventory.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:51:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fRevenue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fRevenue.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fRevenue.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fRevenue.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fRevenue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:51:14.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "fSellerManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fSellerManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fSellerManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fSellerManager.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fSellerManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:32:24.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fProductTypeManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductTypeManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProductTypeManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductTypeManager.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fProductTypeManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:22:11.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fBillDetailsCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fBillDetailsCustomer.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fBillDetailsCustomer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fBillDetailsCustomer.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fBillDetailsCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:21:37.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "fCreateBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCreateBill.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fCreateBill.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fCreateBill.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fCreateBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:21:36.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fProductManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fProductManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fProductManager.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fProductManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:54:56.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "BTN_291\\AccountProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\AccountProfile.cs [Design]",
+              "RelativeToolTip": "BTN_291\\AccountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:09:22.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserLogin.cs",
+              "RelativeDocumentMoniker": "BTN_291\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserLogin.cs [Design]",
+              "RelativeToolTip": "BTN_291\\UserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:59:21.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fLogOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fLogOut.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fLogOut.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fLogOut.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fLogOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:52:22.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserRegister.cs",
+              "RelativeDocumentMoniker": "BTN_291\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\UserRegister.cs [Design]",
+              "RelativeToolTip": "BTN_291\\UserRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:47:13.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "fManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fManager.cs",
+              "RelativeDocumentMoniker": "BTN_291\\fManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTN_291\\BTN_291\\fManager.cs [Design]",
+              "RelativeToolTip": "BTN_291\\fManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:04:54.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
