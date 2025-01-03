@@ -1,0 +1,452 @@
+C:\Users\Chau\source\repos\BTN_291\BTN_291\bin\Debug\BTN_291.exe.config
+C:\Users\Chau\source\repos\BTN_291\BTN_291\bin\Debug\BTN_291.exe
+C:\Users\Chau\source\repos\BTN_291\BTN_291\bin\Debug\BTN_291.pdb
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.AssemblyReference.cache
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.Properties.Resources.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.GenerateResource.cache
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.CoreCompileInputs.cache
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.exe
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.pdb
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fAccountProfile.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fLogin.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fRegister.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fManager.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fChangeUserPwd.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fCustomerManager.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductManager.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductTypeManager.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fCreateBill.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fSellerManager.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fGRN.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fAddGRN.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fInventory.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fIncome.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fSales.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fOrderCustomer.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fBillDetailsCustomer.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProduct.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductDetails.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fLogOut.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductDrinks.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductGrocery.resources
+C:\Users\Chau\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductHousehold.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\BTN_291.exe.config
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\BTN_291.exe
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\BTN_291.pdb
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fAccountProfile.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fBillDetailsCustomer.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fChangeUserPwd.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fCreateBill.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fCustomerManager.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fInventory.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fLogOut.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fManager.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProduct.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductDetails.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductManager.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fProductTypeManager.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fSellerManager.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fLogin.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fRegister.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.exe
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.pdb
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.Up2Date
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fRevenue.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\stdole.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.BillReport.resources
+C:\Users\ASUS\source\repos\BTN_291\BTN_291\obj\Debug\BTN_291.fNhapSoLuong.resources
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\BTN_291.exe.config
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\BTN_291.exe
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\BTN_291.pdb
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Guna.UI2.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\System.Data.SqlClient.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\EnvDTE.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\stdole.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\System.Data.SqlClient.xml
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.AssemblyReference.cache
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fAccountProfile.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.BillReport.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fBillDetailsCustomer.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fChangeUserPwd.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fCreateBill.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fCustomerManager.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fNhapSoLuong.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fRevenue.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fInventory.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fLogOut.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fManager.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fProduct.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fProductDetails.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fProductManager.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fProductTypeManager.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fSellerManager.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.Properties.Resources.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fLogin.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.fRegister.resources
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.GenerateResource.cache
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.CoreCompileInputs.cache
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.Up2Date
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.exe
+D:\study\LTUD\BTN_291\BTN_291\obj\Debug\BTN_291.pdb
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\BTN_291.exe.config
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\BTN_291.exe
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\BTN_291.pdb
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Guna.UI2.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\System.Data.SqlClient.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\EnvDTE.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\stdole.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\System.Data.SqlClient.xml
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.AssemblyReference.cache
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fAccountProfile.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.BillReport.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fBillDetailsCustomer.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fChangeUserPwd.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fCreateBill.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fCustomerManager.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fNhapSoLuong.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fRevenue.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fInventory.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fLogOut.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fManager.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fProduct.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fProductDetails.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fProductManager.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fProductTypeManager.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fSellerManager.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.Properties.Resources.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fLogin.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.fRegister.resources
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.GenerateResource.cache
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.CoreCompileInputs.cache
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.csproj.Up2Date
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.exe
+D:\study\LTUD - CT291\BTN_291\BTN_291\obj\Debug\BTN_291.pdb
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\BTN_291.exe.config
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\BTN_291.exe
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\BTN_291.pdb
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Guna.UI2.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\System.Data.SqlClient.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\EnvDTE.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\stdole.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\System.Data.SqlClient.xml
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.csproj.AssemblyReference.cache
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fAccountProfile.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.BillReport.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fBillDetailsCustomer.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fChangeUserPwd.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fCreateBill.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fCustomerManager.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fNhapSoLuong.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fRevenue.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fInventory.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fLogOut.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fManager.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fProduct.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fProductDetails.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fProductManager.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fProductTypeManager.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fSellerManager.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.Properties.Resources.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fLogin.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.fRegister.resources
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.csproj.GenerateResource.cache
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.csproj.CoreCompileInputs.cache
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.csproj.Up2Date
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.exe
+D:\study\LTUD - CT291\BTN_291 (chau)\BTN_291\obj\Debug\BTN_291.pdb
